@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Hello I Dont use storyboard anymore")
+        print("Hello I May use objc")
     }
 
 
